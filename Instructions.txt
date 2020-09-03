@@ -1,0 +1,12 @@
+
+
+		STEPS
+
+1.Install the chatterbot library file
+2.Change the path of the yml files according to your interest
+3.Run the chatbot.py in cmd
+4.it takes time for the packages to run and listtrainer to train the bot
+
+__________________________________________________
+	|HAPPY LEARNING AND HAVE FUN|
+__________________________________________________
